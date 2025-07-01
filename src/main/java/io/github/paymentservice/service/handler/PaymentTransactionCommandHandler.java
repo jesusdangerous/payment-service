@@ -1,5 +1,5 @@
 package io.github.paymentservice.service.handler;
 
 public interface PaymentTransactionCommandHandler {
-    void process();
+    void process(String requestId, String message);
 }
