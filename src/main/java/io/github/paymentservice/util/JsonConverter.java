@@ -2,7 +2,6 @@ package io.github.paymentservice.util;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import io.github.paymentservice.model.dto.CreatePaymentTransactionRequest;
 import lombok.experimental.UtilityClass;
 import lombok.extern.slf4j.Slf4j;
 
